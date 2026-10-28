@@ -15,17 +15,15 @@ Optimized strictly for the 150% layout baseline
 
 
 ====================================
+28 October VERSION
 
-
-
-Another version which is for 26h2 , but is not tested yet, as I have not install it yet, so is a hypothetical version,  hoping that work.
+Another EXPERIMENTAL version JUST for 26h2, just for testing.
 
 * **The complete production-ready YAML configuration file is available for direct view and copy here:**                                           
 
-
+[ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL/blob/main/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml)
 
 --------------
-
 
 
 • Theme Name: ZEUSosX_044_Crystal
