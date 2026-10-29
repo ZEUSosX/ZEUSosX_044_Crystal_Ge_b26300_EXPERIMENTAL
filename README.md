@@ -1,7 +1,7 @@
 ![ZEUSosX 044 Crystal Preview](ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.png)
 
 
-⚠ # **WARNING: This is an archived experimental sandbox repository for layout telemetry. For the official, production-ready and fully verified stable layout, please visit:**  ZEUSosX_044_Crystal_Ge_b26200 https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26200      
+⚠ # WARNING: This is an archived experimental sandbox repository for layout telemetry. For the official, production-ready and fully verified stable layout, please visit: ZEUSosX_044_Crystal_Ge_b26200 https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26200      
 
 
 ----------------
