@@ -1,20 +1,16 @@
 ![ZEUSosX 044 Crystal Preview](ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.png)
 
 
-⚠ # WARNING: This is an archived experimental sandbox repository for layout telemetry. For the official, production-ready and fully verified stable layout, please visit: ZEUSosX_044_Crystal_Ge_b26200 https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26200      
+⚠ * **WARNING: This is an archived experimental sandbox repository for layout telemetry. For the official, production-ready and fully verified stable layout, please visit:** ZEUSosX_044_Crystal_Ge_b26200 https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26200      
 
 
 ----------------
 
-# ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL
- This theme veersion (for Windows 11 File Explorer Styler Theme/Windhawk) is an experimental beta vesrion. 
+# ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL [ARCHIVED - EXPERIMENTAL] Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2.
 
-Compatible: 
-* **Edition:** Windows 11 Pro / Home (Version 25H2)
-* **OS Build:** 26200.9711
-* **Experience Pack:** 1000.26100.372.0
+* **This theme veersion (for Windows 11 File Explorer Styler Theme/Windhawk) is an experimental beta vesrion, Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2** 
 
-Optimized strictly for the 150% layout baseline 
+**Optimized strictly for the 150% layout baseline.** 
 
 * **The complete production-ready YAML configuration file is available for direct view and copy here:**                                           
 [ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL/blob/main/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.yaml)
@@ -25,7 +21,7 @@ Optimized strictly for the 150% layout baseline
 
 Another EXPERIMENTAL version JUST for 26h2, just for testing.
 
-* **The complete production-ready YAML configuration file is available for direct view and copy here:**                                           
+• **The complete production-ready YAML configuration file is available for direct view and copy here:**                                           
 
 [ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL/blob/main/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml)
 
