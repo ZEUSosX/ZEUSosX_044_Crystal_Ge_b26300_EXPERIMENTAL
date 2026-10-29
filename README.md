@@ -1,5 +1,9 @@
 ![ZEUSosX 044 Crystal Preview](ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.png)
 
+-
+
+
+-
 ------------------------
 
 ⚠ * **WARNING: This is an archived experimental sandbox repository for layout telemetry. For the official, production-ready and fully verified stable layout, please visit:** ZEUSosX_044_Crystal_Ge_b26200 https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26200      
@@ -10,8 +14,11 @@
 -
 ----------------
 
-# ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL [ARCHIVED - EXPERIMENTAL] 
-**Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2.**
+# ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2
+
+-
+
+**[ARCHIVED - EXPERIMENTAL] Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2.**
 
 * **This theme version (for Windows 11 File Explorer Styler Theme/Windhawk) is an experimental beta vesrion, Left-Aligned XAML Experimental Layout Sandbox for Windows 11 26H2** 
 
@@ -21,17 +28,7 @@
 [ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL/blob/main/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL.yaml)
 
 
-====================================
-28 October VERSION
-
-Another EXPERIMENTAL version JUST for 26h2, just for testing.
-
-• **The complete production-ready YAML configuration file is available for direct view and copy here:**                                           
-
-[ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml](https://github.com/ZEUSosX/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL/blob/main/ZEUSosX_044_Crystal_Ge_b26300_EXPERIMENTAL_1_26H2.yaml)
-
---------------
-
+--
 
 • Theme Name: ZEUSosX_044_Crystal
 
